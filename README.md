@@ -16,7 +16,7 @@ Tengok Ni Betul-betul!
 
 ---
 
-## **Caranya**
+## **Langkah-langkahnya:**
 
 ### **1. Controller: `AuthController.php`**
 Tambah File Baru Tuk Dapat Data User Yang Tengah Login Kat `AuthController.php`.. Pada Case Ni, Ana Guna Method me().
@@ -26,10 +26,17 @@ Tambahlah Route Tuk User Kat `routes/api.php`:
 
 ---
 
-## **Testing Guna Insomnia**
+## **Testing Guna Insomnia:**
 
+- Kat URL:
 ```sql
 GET http://127.0.0.1:8000/api/user
+```
+
+- Kat Headers:
+```makefile
+Authorization: Bearer <your-token>
+Accept: application/json
 ```
 
 ---
