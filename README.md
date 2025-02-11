@@ -39,8 +39,8 @@ Authorization: Bearer <your-token>
 Accept: application/json
 ```
 
+---
+
 ```css
 Disusun oleh [Abuu Ubaadah a.k.a Muhammad Yaziid Ash-Shabriyy]
 ```
-
----
