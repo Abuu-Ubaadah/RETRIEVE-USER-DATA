@@ -1,6 +1,6 @@
 # README: Macam Mana Get Data User Gunakan Bearer Token ?
 
-Tengok Ni Betul-betul!
+Tengok Ni Betul-betul Ya..
 
 ## **Struktur Folder Juga File Penting**
 
